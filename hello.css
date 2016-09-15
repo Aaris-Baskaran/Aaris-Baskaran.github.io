@@ -46,7 +46,7 @@ h1 {
 
 main img {
   display: block;
-  width: 18rem;
+  width: 12rem;
   max-width: 50%;
   margin: 0 auto 1rem;
   height: auto;
@@ -86,7 +86,7 @@ main p {
 
 .social li a::before {
   position: absolute;
-  left: 0;
+  left: 4;
   top: 0;
   width: 1em;
   height: 1em;
