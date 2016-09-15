@@ -86,7 +86,7 @@ main p {
 
 .social li a::before {
   position: absolute;
-  left: 4;
+  left: 0;
   top: 0;
   width: 1em;
   height: 1em;
